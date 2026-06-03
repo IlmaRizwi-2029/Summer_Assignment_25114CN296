@@ -55,7 +55,7 @@ int main() {
 
 
 
-
+/*question: write a program to check if a number is palindrome 
     #include<stdio.h>
     int main() {
         int num, original, reverse = 0, remainder;
@@ -73,3 +73,4 @@ int main() {
             printf("not a palindrome number");
         return 0;
     }
+*/

@@ -50,7 +50,7 @@ int main() {
 
 
 
-
+/*question: Write a C program to count the number of digits in a number.
 #include<stdio.h>
 int main() {
     int num, count = 0;
@@ -63,3 +63,4 @@ int main() {
     printf("number of digits = %d", count); 
     return 0;
 }
+*/
