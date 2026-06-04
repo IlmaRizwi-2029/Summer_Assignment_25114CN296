@@ -83,7 +83,7 @@ int main()
 
 
 
-
+/*question 6: Write a program to find LCM of two numbers.
 #include<stdio.h>
 int main()
 {
@@ -100,3 +100,4 @@ int main()
     }
     return 0;
 }
+*/
