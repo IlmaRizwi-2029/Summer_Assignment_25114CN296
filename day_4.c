@@ -76,6 +76,8 @@ int main(){
 
 
 
+
+/*question: write a program to find LCM of two numbers.
 #include<stdio.h>
 int main(){
     int a, b, max;
@@ -91,3 +93,4 @@ int main(){
     }
     return 0;   
 }
+*/
