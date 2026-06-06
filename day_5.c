@@ -80,7 +80,7 @@ int main() {
 
 
 
-
+/*question: write a program to find largest prime factor.
 #include<stdio.h>
 int main() {
     int n, i, j, largest = 0, prime;
@@ -103,3 +103,4 @@ int main() {
     printf("Largest prime factor = %d", largest);
     return 0;
 }
+*/
