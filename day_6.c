@@ -72,7 +72,7 @@ int main() {
 
 
 
-
+/*question:write a program to find x^n without pow().
 #include<stdio.h>
 int main() {
     int x, n,result = 1, i;
@@ -86,3 +86,4 @@ int main() {
     printf("%d^%d = %d", x, n, result);
     return 0;
 }
+*/
