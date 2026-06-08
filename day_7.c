@@ -74,7 +74,7 @@ int main ()
 
 
 
-
+/*question:write a program to recursive reverse number.
 #include<stdio.h>
 int reverse(int n, int rev) {
     if (n == 0)
@@ -88,3 +88,4 @@ int main() {
     printf("Reversed number = %d", reverse(num, 0));
     return 0;
 }
+*/
