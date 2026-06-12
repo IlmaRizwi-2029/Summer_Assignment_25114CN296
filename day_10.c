@@ -63,7 +63,7 @@ int main() {
 
 
 
-
+/*question:write a program to print character pyramid.
 #include<stdio.h>
 int main() {
     int i, j, rows = 5;
@@ -88,3 +88,4 @@ int main() {
     }
     return 0;
 }
+*/
