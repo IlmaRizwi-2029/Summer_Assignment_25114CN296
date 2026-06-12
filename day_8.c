@@ -67,7 +67,7 @@ int main()
 
 
 
-
+/*question:write a program to print repeated number.
 #include<stdio.h>
 int main()
 {
@@ -81,3 +81,4 @@ int main()
     }
     return 0;
 }
+*/
