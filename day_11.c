@@ -79,7 +79,7 @@ int main() {
 
 
 
-
+/*question:write a program to write function to find factorial.
 #include<stdio.h>
 int factorial(int n) {
     int i, fact = 1;
