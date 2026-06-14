@@ -88,7 +88,7 @@ int main()
 
 
 
-
+/*question:write a program to count even and odd elements.
 #include <stdio.h>
 int main() {
     int arr[100], n, i;
@@ -112,5 +112,6 @@ int main() {
 
     return 0;
 }
+    */
 
     
