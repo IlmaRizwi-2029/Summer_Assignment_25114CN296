@@ -114,7 +114,7 @@ int main()
 
 
 
-
+/*question:write a program to write function for perfect number.
 #include<stdio.h>
 int perfect(int n)
 {
@@ -144,6 +144,7 @@ int main()
     return 0;
     
 }
+*/
 
 
     
