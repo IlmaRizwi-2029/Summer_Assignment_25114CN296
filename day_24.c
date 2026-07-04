@@ -1,3 +1,5 @@
+
+// question:write a program to check string rotation.
 #include <stdio.h>
 #include <string.h>
 
