@@ -1,4 +1,4 @@
-question:write a program to find first repeating character .
+
 #include <stdio.h>
 
 int main() {
